@@ -8,6 +8,9 @@ TagManager:
   - AutosaveZone
   - BoostCircle
   - AreaTrigger
+  - Line
+  - Target
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -50,6 +53,7 @@ TagManager:
     locked: 0
   - name: Overlay
     uniqueID: 1758554563
+    locked: 0
   - name: UI
     uniqueID: 3746540665
     locked: 0
